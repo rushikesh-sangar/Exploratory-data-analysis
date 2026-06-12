@@ -1,6 +1,6 @@
 # Exploratory data analysis (EDA)
 
-This repository contains Exploratory Data Analysis (EDA) implementations with a strong focus on **practical analysis and visualization** rather than heavy theory.
+This repository contains Exploratory data analysis (EDA) implementations with a strong focus on **practical analysis and visualization** rather than heavy theory.
 
 It is designed to help learners understand EDA through hands-on notebooks, real datasets, and step-by-step analysis examples.
 
